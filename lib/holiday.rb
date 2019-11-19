@@ -72,7 +72,7 @@ array = []
       if supply.include?("BBQ")
          array << name
       end
-      end
+      
    end  
    array
 end	
